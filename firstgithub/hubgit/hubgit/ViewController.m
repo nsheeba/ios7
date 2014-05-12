@@ -1,15 +1,15 @@
 //
 //  ViewController.m
-//  github1
+//  hubgit
 //
 //  Created by User1 on 2014-05-12.
-//
+//  Copyright (c) 2014 sheba. All rights reserved.
 //
 
 #import "ViewController.h"
 
 @interface ViewController ()
-                                                
+
 @end
 
 @implementation ViewController
